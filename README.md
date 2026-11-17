@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/34952228/README.md)
-# Single-scenario 10-parameter Fe-isotope model
+# Pyrite Fe-isotope model
 
 This release replaces the old environment-specific SL / YX forward-simulation and sensitivity-analysis design with **one generic reaction system and one common 10-dimensional parameter distribution**. It is a new numerical experiment: it must **not** reuse the old SL/YX `results.mat` files.
 
