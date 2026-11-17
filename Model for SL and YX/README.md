@@ -1,6 +1,4 @@
-# SL/YX pyrite Fe-isotope model: 10-input normalized kinetics
-
-Version: `noH_normalized_KD_KAH_Psi_KPH_div_R_v1` (10 November 2026)
+# SL/YX pyrite Fe-isotope model
 
 This MATLAB source package models three closed Fe reservoirs (O, reactive Fe(III); L, dissolved Fe(II); P, pyrite) with four Fe fluxes. It does **not** simulate sulfur isotope profiles, spatial transport, or observational fitting. The model contains **10 independent uncertain inputs**; **H is not sampled**. `model_parameters.m` is the only file you need to edit for input bounds and distribution choices.
 
